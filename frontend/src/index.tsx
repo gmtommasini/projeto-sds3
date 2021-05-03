@@ -7,9 +7,9 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App />     {/* from App.tsx */}
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root') //captured from index.html
 );
 
 
