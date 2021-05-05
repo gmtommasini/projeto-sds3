@@ -1,0 +1,3 @@
+after clonning from git, we must:
+- run yarn in the frontend folder to install dependencies 
+- import the backend mvn project into STS
