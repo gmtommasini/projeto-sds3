@@ -45,7 +45,6 @@ const DataTable = () => {
                         </tr>
                     ))
                     }
-
                 </tbody>
             </table>
         </div>
